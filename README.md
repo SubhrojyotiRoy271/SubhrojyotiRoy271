@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubhrojyotiRoy271
-- 👀 I’m interested in backend technologies,system design,databases.
+- 👀 I’m interested in Data Structures and Algorithm,Problem Solving,Backend technologies,System design,Databases.
 - 🌱 I’m currently learning system design
 - 📫 reach me at subhro271@gmail.com
 
